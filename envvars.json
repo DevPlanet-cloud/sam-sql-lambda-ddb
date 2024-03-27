@@ -1,0 +1,5 @@
+{
+	"MessageProcessor" :{
+		"TableName" : "sam-demo-stack-sqs-lambda-ddb-MessageTable-10HVN134YMUAL"
+	}
+}
